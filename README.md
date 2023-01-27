@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Alexa-dev-ops
-- 👀 I’m interested in full stack development. 
+- 👀 I’m interested in full stack development and blockchain development.
 - 🌱 I’m currently learning front end development. 
 - 💞️ I’m looking to collaborate on major projects and cool ideas. 
 - 📫 How to reach me: marvellousalex4@gmail.com
+- 
