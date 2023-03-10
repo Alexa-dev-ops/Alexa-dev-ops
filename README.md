@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Alexa-dev-ops
+- 👋 Hi, I’m Marvellous Alex (Alexa) or simply call me the popstar techie. I'm a front-end developer passionate about technology and impacting lives through it.
 - 👀 I’m interested in full stack development and blockchain development.
-- 🌱 I’m currently learning front end development. 
+- 🌱 I’m currently a front-end development. 
 - 💞️ I’m looking to collaborate on major projects and cool ideas. 
-- 📫 How to reach me: marvellousalex4@gmail.com
+- 📫 Reach me on:marvellousalex4@gmail.com/ +2348146880183
 - 
