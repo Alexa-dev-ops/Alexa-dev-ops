@@ -1,6 +1,6 @@
  👋🏽 Hey there, I'm Alexa
 
-🎓 Final Year Computer Science student at Lagos State University (LASU)    
+🎓 CS Grad
 🛠️ Flutter Developer | Student Leader
 
 
@@ -10,7 +10,7 @@
 - Building beautiful and functional apps using Flutter
 - Leading real projects that impact people and solve problems
 - Exploring how blockchain can fit into mobile development  
-- Helping my department ship our official website
+
 
 🛠️ Tech Stack
 
@@ -29,9 +29,9 @@ VS code
 
 🧑‍💼 Leadership & Volunteering
 
-- 🧠 President, National Association of Computer Science Students – LASU Chapter  
+- 🧠 Erstwhile President, National Association of Computer Science Students – LASU Chapter  
 - 👨‍🏫 Head of Class, B.Sc. Computer Science  
-- 📚 Faculty Coordinator, Excel Minds Academic Group, LASU
+- 📚 Erstwhile Faculty Coordinator, Excel Minds Academic Group, LASU
 - ✝️ Vice President, Youth Ministry (TREM - The Redeemed Evangelical Mission)  
 - 💻 Project Manager – NACOS Website Project
 
@@ -39,7 +39,7 @@ VS code
 📫 Let's Connect
 
 - 📧 marvellousalex1@gmail.com
-- 🔗 https://www.linkedin.com/in/marvellousalex
+- 🔗 https://www.linkedin.com/in/themarvellousalex
 - 🐦 @MarvynAlexa, @AlexaTheDev 
 
 _“I build with Flutter. I lead with purpose.”_  
